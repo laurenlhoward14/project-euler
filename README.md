@@ -1,2 +1,2 @@
-# project-euler
-Solutions to Project Euler Problems
+# Project Euler Problems
+Notebook containing my solutions to [Project Euler Problems](https://projecteuler.net/archives)
